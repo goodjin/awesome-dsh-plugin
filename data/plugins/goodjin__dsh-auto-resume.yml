@@ -1,0 +1,6 @@
+url: https://github.com/goodjin/dsh-auto-resume
+name: goodjin/dsh-auto-resume
+category: session
+description:
+  en: 'Auto-resumes sessions cut off by crashes, app exits, network or rate-limit errors at desktop startup; transient failures retry on a schedule and give up after three failed rounds; sessions you stopped are never resumed.'
+  zh: '桌面版启动后自动继续被异常中断的会话（崩溃、退出、网络与限速错误）；网络与限速这类暂时性失败按周期自动重试，连续三轮失败即放弃并标记不再重试；用户主动停过的永不续。'
